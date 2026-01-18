@@ -5,6 +5,13 @@ Python client for Symvea server.
 ## Installation
 
 ```bash
+pip install pysymvea
+```
+
+
+OR 
+
+```bash
 pip install -e .
 ```
 
